@@ -1,5 +1,5 @@
 {
-    "name": "garyjl/yii2-simple_html_dom",
+    "name": "dimabdc/yii2-simple_html_dom",
     "description": "Simple HTML DOM parser for Yii 2 framework.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","html","parser"],
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "garyjl\\simplehtmldom\\": ""
+            "dimabdc\\simplehtmldom\\": ""
         }
     }
 }
