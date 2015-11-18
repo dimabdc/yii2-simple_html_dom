@@ -1,5 +1,5 @@
 <?php
-namespace garyjl\simplehtmldom;
+namespace dimabdc\simplehtmldom;
 
 require_once(dirname(__FILE__) . '/lib/simple_html_dom.php');
 
